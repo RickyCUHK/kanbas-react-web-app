@@ -8,7 +8,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course">
           <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1234/Home">
-            <img src="/images/reactjs.jpg" width={200} />
+            <img src="/images/reactjs.jpg" width={200} alt=""/>
             <div>
               <h5>
                  CS1234 React JS
@@ -24,7 +24,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course"> 
             <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1001/Home">
-                <img src="/images/reactjs.jpg" width={200} />
+                <img src="/images/reactjs.jpg" width={200} alt=""/>
                 <div>
                 <h5>
                     CS1001 Basics of CS
@@ -40,7 +40,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course"> 
             <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1002/Home">
-                <img src="/images/reactjs.jpg" width={200} />
+                <img src="/images/reactjs.jpg" width={200} alt=""/>
                 <div>
                 <h5>
                     CS1002 Data structure
@@ -56,7 +56,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course"> 
             <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1003/Home">
-                <img src="/images/reactjs.jpg" width={200} />
+                <img src="/images/reactjs.jpg" width={200} alt=""/>
                 <div>
                 <h5>
                     CS1003 Operating System
@@ -72,7 +72,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course"> 
             <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1004/Home">
-                <img src="/images/reactjs.jpg" width={200} />
+                <img src="/images/reactjs.jpg" width={200} alt=""/>
                 <div>
                 <h5>
                     CS1004 Computer Architecture
@@ -88,7 +88,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course"> 
             <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1005/Home">
-                <img src="/images/reactjs.jpg" width={200} />
+                <img src="/images/reactjs.jpg" width={200} alt=""/>
                 <div>
                 <h5>
                     CS1005 Computer Algorithms
@@ -104,7 +104,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course"> 
             <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1006/Home">
-                <img src="/images/reactjs.jpg" width={200} />
+                <img src="/images/reactjs.jpg" width={200} alt=""/>
                 <div>
                 <h5>
                     CS1006 Artificial Intelligence 
@@ -120,7 +120,7 @@ export default function Dashboard() {
         <div className="wd-dashboard-course"> 
             <Link className="wd-dashboard-course-link"
                 to="/Kanbas/Courses/1007/Home">
-                <img src="/images/reactjs.jpg" width={200} />
+                <img src="/images/reactjs.jpg" width={200} alt=""/>
                 <div>
                 <h5>
                     CS1007 Cloud Computing
