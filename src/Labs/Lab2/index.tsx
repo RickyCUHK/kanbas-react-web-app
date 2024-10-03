@@ -12,6 +12,12 @@ import Float from "./Float"
 import Flex from "./Flex"
 import ReactIcons from "./ReactIcons"
 import GridLayout from "./GridLayout"
+import BootstrapGrids from "./BootstrapGrids"
+import ScreenSizeLabel from "./BootstrapGrids"
+import BootstrapTables from "./BootstrapTables"
+import BootstrapLists from "./BootstrapLists"
+import BootstrapForms from "./BootstrapForms"
+import BootstrapNavigation from "./BootstrapNavigation"
 
 export default function Lab2() {
   return (
@@ -63,28 +69,24 @@ export default function Lab2() {
       </div>
 
       <div><ForegroundColors/></div>
-
       <div><BackgroundColors/></div>
-
       <div><Borders/></div>
-
       <div><Padding/></div>
-
       <div><Margins/></div>
-
       <div><Corners/></div>
-
       <div><Dimensions/></div>
-
       <div><Positions/></div>
-
       <div><Zindex/></div>
-
       <div><Float/></div>
-
       <div><GridLayout/></div>
-
       <div><Flex/></div>
+      <div><BootstrapGrids/></div>
+      <div><ScreenSizeLabel/></div>
+      <div><BootstrapTables/></div>
+      <div><BootstrapLists/></div>
+      <div><BootstrapForms/></div>
+      <div><BootstrapNavigation/></div>
+
 
       <div><ReactIcons/></div>
     </div>
